@@ -2,25 +2,24 @@
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
 </p>
 
-# Ejecutar en desarrollo
+# Run in Development
 
-1. Clonar el repositorio
-2. Ejecutar
+1. Clone the repository
+2. Run
 ```
 yarn install
 ```
 
-3. Tener Nest CLI instalado
+3. Make sure you have Nest CLI installed
 ```
 npm i -g @nestjs/cli
 ```
 
-4. Levantar la base de datos
+4. Start the database
 ```
 docker-compose up -d
 ```
 
-
-## Stack usado
-* Nest JS
+## Stack used
+* NestJS
 * MongoDB
